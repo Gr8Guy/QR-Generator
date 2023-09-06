@@ -1,9 +1,10 @@
 .qr-code {
-  max-width: 200px;
-  margin: 10px;
+  max-width: 200 px;
+  margin: 10 px;
 }
  
 .coffee {
-  max-width: 400px;
-  margin: 10px;
+  max-width: 150 px;
+  margin: 10 px;
+  border: 0 px;
 }
